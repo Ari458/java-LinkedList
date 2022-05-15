@@ -6,7 +6,7 @@ public class LinkedList{
         root=NodeOperations.addEnd(root,"Ishani Deb");
         root=NodeOperations.addEnd(root,189.90);
         root=NodeOperations.addEnd(root,12);
-        root=NodeOperations.delSpecificPos(root,3);
+        root=NodeOperations.delSpecificPos(root,"Atanu Nandi");
         NodeOperations.show(root);
     }
 }
