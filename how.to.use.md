@@ -29,13 +29,21 @@
 /////////////////////////////////////////////////////////////////////////////////////
 
 Demo:(steps)
+
 *********no need to create object************
+
 *********create your own java file then follow the below*************
+
 ********put Node.class & NodeOperation.class with YourFile.java into a folder*************
+
 ********code in YourFile.java**************
+
 ********below********
+
 NodeOperations.addEnd(20);
+
 NodeOperations.addEnd(30);
+
 NodeOperations.show();
 
 o/p:  20 30
